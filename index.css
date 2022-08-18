@@ -19,6 +19,13 @@ body {
     margin: 0 auto;
 }
 
+.float-child {
+    width: 40%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+}  
+
 .card {
     background-color: hsl(0, 0%, 100%);
     
@@ -26,6 +33,7 @@ body {
 
 .text {
     font-family: 'Montserrat', sans-serif;
+    background-color: hsl(0, 0%, 100%);
 }
 
 h1 {
